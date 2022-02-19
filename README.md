@@ -1,6 +1,6 @@
 ### Desenvolvedor!
 
-### Atualmente aprendendo sobre novas tecnicas e tecnologias para melhorar meu aprendizado e melhorar minha eficiência
+### Atualmente aprendendo sobre novas técnicas e tecnologias para melhorar meu aprendizado e melhorar minha eficiência
 
 ### Sempre procurando novas oportunidades!
 
