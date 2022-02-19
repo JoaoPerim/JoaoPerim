@@ -1,4 +1,8 @@
-### Hi there 👋
+### Desenvolvedor!
+
+### Atualmente aprendendo sobre novas tecnicas e tecnologias para melhorar meu aprendizado e melhorar minha eficiência
+
+### Sempre procurando novas oportunidades!
 
 <!--
 **JoaoPerim/JoaoPerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
