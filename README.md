@@ -6,6 +6,15 @@
 
 
 <img src="https://static.wikia.nocookie.net/shovelknight/images/d/d9/Black_Knight_Treasure_Trove.png/revision/latest?cb=20180901211329" alt="Brack">
+
+
+<a href="https://store.steampowered.com/?l=portuguese">
+  <img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo-1.png" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+
+
+
+
 <!--
 **JoaoPerim/JoaoPerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
