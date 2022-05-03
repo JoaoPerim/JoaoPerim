@@ -8,11 +8,13 @@
 <img src="https://static.wikia.nocookie.net/shovelknight/images/d/d9/Black_Knight_Treasure_Trove.png/revision/latest?cb=20180901211329" alt="Brack">
 
 
-<a href="https://store.steampowered.com/?l=portuguese">
-  <img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo-1.png" alt="HTML tutorial" style="width:60px;height:60px;">
+<a href="https://www.linkedin.com/in/joão-victor-perim-da-vanzo-b22902214/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="HTML tutorial" style="width:160px;height:50px;">
 </a>
 
-
+<a href="https://github.com/JoaoPerim/">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="HTML tutorial" style="width:50px;height:50px;">
+</a>
 
 
 <!--
