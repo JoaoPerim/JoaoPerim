@@ -4,6 +4,8 @@
 
 ### 💼Sempre procurando novas oportunidades!
 
+
+<img src="https://static.wikia.nocookie.net/shovelknight/images/d/d9/Black_Knight_Treasure_Trove.png/revision/latest?cb=20180901211329" alt="Brack">
 <!--
 **JoaoPerim/JoaoPerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
