@@ -9,7 +9,7 @@
 
 
 <a href="https://store.steampowered.com/?l=portuguese">
-  <img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo-1.png" alt="HTML tutorial" style="width:42px;height:42px;">
+  <img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo-1.png" alt="HTML tutorial" style="width:60px;height:60px;">
 </a>
 
 
