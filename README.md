@@ -5,7 +5,7 @@
 ### 💼Sempre procurando novas oportunidades!
 
 
-<img src="[https://static.wikia.nocookie.net/shovelknight/images/d/d9/Black_Knight_Treasure_Trove.png/revision/latest?cb=20180901211329](https://o.remove.bg/downloads/38f639df-793f-4c7c-8a2f-87e9e17eae9a/Destiny_2_Screenshot_2022.06.04_-_23.38.08.75-removebg-preview.png)" alt="Brack">
+<img src="https://imgur.com/jqX6TkB" alt="Brack">
 
 
 <a href="https://www.linkedin.com/in/joão-victor-perim-da-vanzo-b22902214/">
