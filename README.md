@@ -5,11 +5,11 @@
 ### 💼Sempre procurando novas oportunidades!
 
 
-<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=right>
+<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left >
 
 
 <a href="https://www.linkedin.com/in/joão-victor-perim-da-vanzo-b22902214/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="HTML tutorial" style="width:160px;height:50px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="HTML tutorial" style="width:170px;height:50px;">
 </a>
 
 <a href="https://github.com/JoaoPerim/">
