@@ -5,7 +5,7 @@
 ### 💼Sempre procurando novas oportunidades!
 
 
-<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack">
+<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=right>
 
 
 <a href="https://www.linkedin.com/in/joão-victor-perim-da-vanzo-b22902214/">
