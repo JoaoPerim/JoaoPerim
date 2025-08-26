@@ -1,8 +1,8 @@
-### 💻Desenvolvedor!
+### 💻Developer!
 
-### 🤓Atualmente aprendendo sobre novas técnicas e tecnologias para melhorar meu aprendizado e melhorar minha eficiência.
+### I usually use Java, C#, Python and a bit of Lua(for roblox, it have some fun things to do) and gLua(for gmod add-ons)
 
-### 💼Sempre procurando novas oportunidades!
+
 
 
 <img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left >
