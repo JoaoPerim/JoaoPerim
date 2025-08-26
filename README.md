@@ -3,7 +3,7 @@
 ### I usually use Java, C#, Python and a bit of Lua(for roblox, it have some fun things to do) and gLua(for gmod add-ons)
 
 
-<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left > (My titan was pretty dope back then)
+### (My titan was pretty dope back then) <img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left >
 
 <br></br>
 <a href="https://github.com/JoaoPerim/">
