@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left > (My titan was pretty dope back then)
 
-
+<br></br>
 <a href="https://github.com/JoaoPerim/">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="HTML tutorial" style="width:50px;height:50px;">
 </a>
