@@ -3,14 +3,8 @@
 ### I usually use Java, C#, Python and a bit of Lua(for roblox, it have some fun things to do) and gLua(for gmod add-ons)
 
 
+<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left > (My titan was pretty dope back then)
 
-
-<img src="https://i.imgur.com/jqX6TkB.png" alt="Brack" align=left >
-
-
-<a href="https://www.linkedin.com/in/joão-victor-perim-da-vanzo-b22902214/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="HTML tutorial" style="width:170px;height:50px;">
-</a>
 
 <a href="https://github.com/JoaoPerim/">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="HTML tutorial" style="width:50px;height:50px;">
